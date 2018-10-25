@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroserviceForexServiceApplication<spring-boot-microservice-forex-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.springboot.microservice.example.forex.springbootmicroserviceforexservice.SpringBootMicroserviceForexServiceApplication",
+            "projectName": "spring-boot-microservice-forex-service",
+            "args": ""
+        }
+    ]
+}

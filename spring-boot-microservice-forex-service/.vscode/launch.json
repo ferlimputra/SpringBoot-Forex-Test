@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ForexService Instance 1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.springboot.microservice.example.forex.springbootmicroserviceforexservice.SpringBootMicroserviceForexServiceApplication",
+            "projectName": "spring-boot-microservice-forex-service",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "ForexService Instance 2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.springboot.microservice.example.forex.springbootmicroserviceforexservice.SpringBootMicroserviceForexServiceApplication",
+            "projectName": "spring-boot-microservice-forex-service",
+            "args": "",
+            "vmArgs": "-Dserver.port=8001"
+        }
+    ]
+}

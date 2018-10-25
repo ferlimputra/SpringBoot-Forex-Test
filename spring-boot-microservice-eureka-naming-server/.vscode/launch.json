@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroserviceEurekaNamingServerApplication<spring-boot-microservice-eureka-naming-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.springboot.microservice.eureka.naming.server.springbootmicroserviceeurekanamingserver.SpringBootMicroserviceEurekaNamingServerApplication",
+            "projectName": "spring-boot-microservice-eureka-naming-server",
+            "args": ""
+        }
+    ]
+}
